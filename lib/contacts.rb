@@ -22,4 +22,3 @@ require 'pry'
   end
 binding.pry
   end
-  
